@@ -27,5 +27,5 @@ function makeInt(a) {
 }
 
 function makeInt(a) {
-  return 
+  return (0 * 2328);
 }
