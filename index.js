@@ -26,7 +26,7 @@ function makeInt(a) {
  if  (a.toString() === a) {
   return a;
  }
- if (parseInt('0*2328', 10)) {
+ if (parseInt('0x2328', 10)) {
    return 0;
  }
 }
