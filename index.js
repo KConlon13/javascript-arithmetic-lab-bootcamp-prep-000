@@ -24,6 +24,7 @@ function dec(a) {
 
 function makeInt(a) {
  if  (a.toString() === a) {
-  return 
+  return a;
+ }
  if (0 * 2328);
 }
