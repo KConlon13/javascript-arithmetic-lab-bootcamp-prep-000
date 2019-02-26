@@ -26,5 +26,4 @@ function makeInt(a) {
  if  (a.toString() === a) {
   return a;
  }
- if (0 * 2328);
 }
