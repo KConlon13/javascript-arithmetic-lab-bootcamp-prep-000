@@ -23,10 +23,5 @@ function dec(a) {
 }
 
 function makeInt(a) {
- if  (a.toString() === a) {
-  return a;
- }
- if (a.parseInt('0x2328'=== 0)) {
-   return a;
- }
+ return parseInt(a);
 }
