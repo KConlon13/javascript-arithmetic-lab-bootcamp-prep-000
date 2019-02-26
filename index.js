@@ -27,6 +27,6 @@ function makeInt(a) {
   return a;
  }
  if ('0 * 2328'=== 0) {
-   return 
+   return 0;
  }
 }
